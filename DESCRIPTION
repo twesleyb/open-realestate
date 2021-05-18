@@ -1,5 +1,5 @@
 Package: openRealestate
-Title: Snapshot of Durham Realestate, Spring 2020
+Title: open realestate data
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "tyler",

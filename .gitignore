@@ -5,7 +5,6 @@
 *.swo
 
 # Ignore renv.
-renv/
 renv/library
 renv/stagging
 
@@ -28,17 +27,8 @@ extensions/
 # Ingore pycache
 __pycache__/
 
-# data is too big
+# Data is too big.
 durham/data/
 
 # Achived files
 ARCHIVE/
-
-# downloaded files
-downloads/
-
-# src files
-src/
-
-# local bin
-bin/
